@@ -6,7 +6,7 @@ setup(
         'PTable==0.9.2',
         'PyNaCl==1.3.0',
         'django-cors-headers==3.4.0',
-        'djangorestframework==3.11.0',
+        'djangorestframework==3.11.2',
         'pycodestyle==2.6.0',
         'requests~=2.23.0',
     ],
